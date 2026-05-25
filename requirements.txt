@@ -1,0 +1,5 @@
+OpenCV(cv2)
+numpy
+pandas
+matplotlib
+os
